@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150">
-<path d="M52 92 v-14 a48 48 0 0 1 96 0 v14" fill="none" stroke="#1b2433" stroke-width="9" stroke-linecap="round"/>
-<rect x="38" y="86" width="26" height="42" rx="11" fill="#1b2433"/>
-<rect x="136" y="86" width="26" height="42" rx="11" fill="#1b2433"/>
+<defs><linearGradient id="hpcup" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#3a4a63"/><stop offset="1" stop-color="#0f151f"/></linearGradient></defs>
+<path d="M38 92V78a62 62 0 0 1 124 0v14" fill="none" stroke="#1b2433" stroke-width="10" stroke-linecap="round"/>
+<rect x="22" y="82" width="30" height="48" rx="14" fill="url(#hpcup)"/>
+<rect x="148" y="82" width="30" height="48" rx="14" fill="url(#hpcup)"/>
+<circle cx="37" cy="106" r="7" fill="#e4002b" opacity=".85"/>
+<circle cx="163" cy="106" r="7" fill="#ffffff" opacity=".14"/>
 </svg>
