@@ -1,2 +1,2 @@
-:HL["/agentic-commerce-demos/vijaysales-cards/_next/static/chunks/1pwhymo30z42a.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"JdUKPracY_NOyOZVyKxVY"}
+:HL["/agentic-commerce-demos/vijaysales-cards/_next/static/chunks/3ym71xi8syiql.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"YSvU60tg6MnINFsMObZfj"}
