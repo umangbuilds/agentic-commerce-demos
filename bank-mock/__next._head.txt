@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[49196,["/agentic-commerce-demos/bank-mock/_next/static/chunks/1tlg7ezpqs_6z.js"],"ViewportBoundary"]
+3:I[49196,["/agentic-commerce-demos/bank-mock/_next/static/chunks/1tlg7ezpqs_6z.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[28713,["/agentic-commerce-demos/bank-mock/_next/static/chunks/1tlg7ezpqs_6z.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#0E2A47"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Aurum Bank — Marketplace (agentic shopping demo)"}],["$","meta","1",{"name":"description","content":"A mock white-label bank marketplace for AI agents. An autonomous agent watches prices and buys on your behalf, paid from your bank account via a UPI One-Time Mandate (or savings hold / reward points) — all simulated, no real money."}],["$","link","2",{"rel":"icon","href":"/agentic-commerce-demos/bank-mock/favicon.svg"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qaJqlQLv5SGQq3ZSmVAa_"}

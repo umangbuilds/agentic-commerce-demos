@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[24316,["/agentic-commerce-demos/tijorie-mock/_next/static/chunks/3nmns9znawb_w.js"],"ViewportBoundary"]
+3:I[24316,["/agentic-commerce-demos/tijorie-mock/_next/static/chunks/3nmns9znawb_w.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[57733,["/agentic-commerce-demos/tijorie-mock/_next/static/chunks/3nmns9znawb_w.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#14110b"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Tijorie — save in gold, in chat"}],["$","meta","1",{"name":"description","content":"A mock Tijorie prototype. A conversational gold-savings agent — buy digital gold, auto-save a little every day, and buy the dip automatically, all from one chat. Powered by a UPI auto-pay mandate. Simulated, no real money."}],["$","link","2",{"rel":"icon","href":"/favicon.svg"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Noqplnfb7mpOf8Lrm7Rn-"}

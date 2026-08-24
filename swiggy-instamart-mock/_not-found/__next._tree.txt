@@ -1,0 +1,2 @@
+:HL["/agentic-commerce-demos/swiggy-instamart-mock/_next/static/chunks/0lmb_pn-gv3pv.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"kjl1ThK-8hOaNg6Aj6tC5"}

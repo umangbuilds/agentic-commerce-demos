@@ -1,0 +1,3 @@
+:HL["/agentic-commerce-demos/landbank-mock/_next/static/chunks/3pdkn20py56ma.css","style"]
+:HL["/agentic-commerce-demos/landbank-mock/_next/static/media/fed68dff3ca987ed-s.p.3e08ior5wrhci.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"GUFlgkVTfLrsr0apem5QM"}

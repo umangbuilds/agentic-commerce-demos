@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[63801,["/agentic-commerce-demos/swiggy-instamart-mock/_next/static/chunks/03u77gqfcdkr4.js"],"default"]
+3:I[75070,["/agentic-commerce-demos/swiggy-instamart-mock/_next/static/chunks/03u77gqfcdkr4.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"kjl1ThK-8hOaNg6Aj6tC5"}
