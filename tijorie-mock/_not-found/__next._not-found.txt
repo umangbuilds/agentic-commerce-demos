@@ -2,4 +2,4 @@
 2:I[10095,["/agentic-commerce-demos/tijorie-mock/_next/static/chunks/3nmns9znawb_w.js"],"default"]
 3:I[90803,["/agentic-commerce-demos/tijorie-mock/_next/static/chunks/3nmns9znawb_w.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"Noqplnfb7mpOf8Lrm7Rn-"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"3copv_nk5eh0V9XPYwbMd"}

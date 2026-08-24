@@ -2,4 +2,4 @@
 2:I[14728,["/agentic-commerce-demos/myntra-mock/_next/static/chunks/1mf0x7n70pw9b.js"],"default"]
 3:I[61851,["/agentic-commerce-demos/myntra-mock/_next/static/chunks/1mf0x7n70pw9b.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"UVz2QGUBjoJNBjaUXS_bP"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"YqeeYGQK4t1LAZx2hzPlU"}

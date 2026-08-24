@@ -1,4 +1,4 @@
 :HL["/agentic-commerce-demos/bank-mock/_next/static/chunks/0nqr_4k8y1h7j.css","style"]
 :HL["/agentic-commerce-demos/bank-mock/_next/static/media/0c8f209abc35ee02-s.p.0c0g8ifvh7k7-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/agentic-commerce-demos/bank-mock/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"ipJ_qkdyhZCophzf0hW_5"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"k4O16iGWD8PHYPh0MTp1l"}
