@@ -1,2 +1,2 @@
-:HL["/agentic-commerce-demos/planet-mock/_next/static/chunks/34bgkb6-m75dx.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"WERMsQ9OyS30L8bFH_prE"}
+:HL["/agentic-commerce-demos/planet-mock/_next/static/chunks/27u769q3g5f72.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"TqbwUjB_DyomqVhH2WlVf"}
