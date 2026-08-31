@@ -1,2 +1,2 @@
-:HL["/agentic-commerce-demos/vijaysales-flash/_next/static/chunks/0o19uxgjsd929.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"XpmxkOAqOQRGUqzQNmCwA"}
+:HL["/agentic-commerce-demos/vijaysales-flash/_next/static/chunks/3ec48-ia1h5mp.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"KYdQCpHryx-1zmNRoG6L3"}
