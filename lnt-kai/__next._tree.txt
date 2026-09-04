@@ -1,3 +1,3 @@
-:HL["/agentic-commerce-demos/lnt-kai/_next/static/chunks/2n67y6asoguij.css","style"]
+:HL["/agentic-commerce-demos/lnt-kai/_next/static/chunks/238uzdgiat-p6.css","style"]
 :HL["/agentic-commerce-demos/lnt-kai/_next/static/media/47df9ba1c7236d3b-s.p.137759vg1sbmi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"k4mvtqzl-6067KobZzFq7"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"01LeHzk-v7j1SyEtv8UUs"}

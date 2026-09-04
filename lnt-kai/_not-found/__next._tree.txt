@@ -1,2 +1,2 @@
-:HL["/agentic-commerce-demos/lnt-kai/_next/static/chunks/2n67y6asoguij.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"k4mvtqzl-6067KobZzFq7"}
+:HL["/agentic-commerce-demos/lnt-kai/_next/static/chunks/238uzdgiat-p6.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"01LeHzk-v7j1SyEtv8UUs"}
