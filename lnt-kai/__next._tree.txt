@@ -1,2 +1,2 @@
 :HL["/agentic-commerce-demos/lnt-kai/_next/static/chunks/1wyletq6fj3d1.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"jwMLhc2mzQsWFS56GnP4T"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"NA7D30K4JvSEUXfArJqOe"}
